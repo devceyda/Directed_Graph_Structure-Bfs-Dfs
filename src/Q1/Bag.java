@@ -2,9 +2,7 @@ package Q1;
 //-----------------------------------------------------
 // Title: Bag implementation class
 // Author: Ceyda Kuşçuoğlu
-// ID: 16348076072
-// Section: 3
-// Assignment: 1
+
 // Description: This class implements the bag structure
 //-----------------------------------------------------
 import java.util.Iterator;

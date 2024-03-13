@@ -1,9 +1,7 @@
 //-----------------------------------------------------
 // Title: BreadthFirstPaths class
 // Author: Ceyda Kuşçuoğlu
-// ID: 16348076072
-// Section: 3
-// Assignment: 1
+
 // Description: This class implements the breadth first search algorithm from the book
 //-----------------------------------------------------
 package Q1;
